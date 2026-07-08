@@ -1,0 +1,7 @@
+print("==========================================")
+print("      Welcome to MLOPS Lab")
+print("==========================================")
+print("Project Name : MLOPS Project Template")
+print("Environment  : Successfully Created")
+print("Status       : Ready for Development")
+print("==========================================") 
