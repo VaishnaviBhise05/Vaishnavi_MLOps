@@ -1,7 +1,0 @@
-print("===================================") 
-print("      Welcome to MLOps Lab") 
-print("===================================") 
-print("Project Name : MLOps Project Template")
-print("Environment  : Successfully Created") 
-print("Status       : Ready for Development") 
-print("===================================")
