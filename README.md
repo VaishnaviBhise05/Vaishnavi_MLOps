@@ -1,144 +1,42 @@
 # Vaishnavi_MLOps
 
+## 📌 About
+This repository contains my MLOps Laboratory experiments completed as part of the course. Each experiment builds on the previous one, starting from project setup, moving to data analysis, and then to dataset version control.
+
+---
+
+## 🧪 Lab Experiments
+
+### ✅ Lab 1 – MLOps Project Template
+Set up a standard MLOps folder structure (data, notebooks, src, models, configs, tests, docs), created a Python virtual environment, installed core libraries (pandas, numpy, matplotlib, scikit-learn), and ran a basic `main.py` to confirm the environment was working.
+
+### ✅ Lab 2 – Exploratory Data Analysis (EDA)
+Used Python and Pandas to explore the Iris dataset — loaded the data, viewed the first five records, checked dataset info, generated summary statistics, checked for missing values, and created a correlation matrix. Goal was to understand the dataset before using it in any ML model.
+
+### ✅ Lab 3 – Data Version Control (DVC)
+Added dataset version tracking to the project using DVC. Installed DVC, initialized Git and DVC in the project, created a `students.csv` dataset, tracked it with `dvc add`, and committed the tracking files with Git. Updated `main.py` to load the dataset and print the average marks — showing how datasets can be version-controlled alongside code.
+
+---
+
+## 📚 Progress
+
+| Lab | Title | Status |
+|-----|-------|--------|
+| 1 | MLOps Project Template | ✅ Completed |
+| 2 | Exploratory Data Analysis (EDA) | ✅ Completed |
+| 3 | Data Version Control (DVC) | ✅ Completed |
+
+---
+
+## 👩‍💻 Author
+**Vaishnavi Nitin Bhise**
+B.Tech – Artificial Intelligence & Data Science
+
 <img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/8c0271c4-2826-4940-98c3-42d246c3a789" />
 
-# 🚀 MLOps Project Template
-
-## 📌 About the Project
-
-This repository contains my **MLOps Laboratory experiments, assignments, and hands-on projects**. It started as a basic MLOps project template and is continuously updated with new experiments throughout the course.
-
-The project provides a standard folder structure for developing Machine Learning projects in an organized and scalable way.
-
----
-
-# 📂 Project Structure
-
-```text
-Vaishnavi_MLOps/
-│── data/                 # Dataset files
-│── docs/                 # Documentation
-│── models/               # Trained models
-│── notebooks/            # Jupyter notebooks
-│── src/                  # Source code
-│── tests/                # Test files
-│── venv/                 # Virtual environment
-│── EDA_Project/          # Experiment 2
-│     ├── data/
-│     │     └── iris.csv
-│     └── eda.py
-│── main.py
-│── requirements.txt
-│── README.md
-│── .gitignore
-```
-
----
-
-# 🧪 MLOps Laboratory Experiments
-
-## ✅ Experiment 1 – MLOps Project Template
-
-### Objective
-
-- Set up the basic MLOps project structure.
-- Configure the Python development environment.
-- Prepare the repository for future Machine Learning projects.
-
----
-
-## ✅ Experiment 2 – Exploratory Data Analysis (EDA) Automation
-
-### Aim
-
-To perform Exploratory Data Analysis (EDA) on the Iris dataset using Python.
-
-### Tasks Performed
-
-- Loaded the Iris dataset using Pandas.
-- Displayed the first five records.
-- Viewed dataset information.
-- Generated summary statistics.
-- Checked for missing values.
-- Generated the correlation matrix.
-
-### Technologies Used
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-
-### Output
-
-The program successfully displays:
-
-- First Five Records
-- Dataset Information
-- Summary Statistics
-- Missing Values
-- Correlation Matrix
-
----
-
-# ⚙️ Technologies Used
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Visual Studio Code
-- Git & GitHub
-- Virtual Environment (venv)
-
----
-
-# ▶️ How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/VaishnaviBhise05/Vaishnavi_MLOps.git
-```
-
-### 2. Move into the project
-
-```bash
-cd Vaishnavi_MLOps
-```
-
-### 3. Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-### 4. Activate the virtual environment
-
-**Windows**
-
-```bash
-venv\Scripts\activate
-```
-
-### 5. Install required packages
-
-```bash
-pip install -r requirements.txt
-```
-
-### 6. Run the EDA Experiment
-
-```bash
-cd EDA_Project
-python eda.py
-```
-
----
-
-# 📋 Sample Output
-
 <img width="1918" height="987" alt="Screenshot 2026-07-20 134154" src="https://github.com/user-attachments/assets/b472eb24-6702-40cb-96e6-670fe054c3ea" />
+
+<img width="1812" height="987" alt="Screenshot 2026-07-29 195200" src="https://github.com/user-attachments/assets/583c7b2f-f0af-4522-a90a-8de70f912069" />
 
 ---
 
