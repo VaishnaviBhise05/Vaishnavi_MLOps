@@ -16,6 +16,9 @@ Used Python and Pandas to explore the Iris dataset — loaded the data, viewed t
 ### ✅ Lab 3 – Data Version Control (DVC)
 Added dataset version tracking to the project using DVC. Installed DVC, initialized Git and DVC in the project, created a `students.csv` dataset, tracked it with `dvc add`, and committed the tracking files with Git. Updated `main.py` to load the dataset and print the average marks — showing how datasets can be version-controlled alongside code.
 
+### ✅ Lab 4 – Interpretable AI: Enhancing Model Transparency
+Implemented an Interpretable AI experiment using the Iris dataset and a Random Forest Classifier. Trained the model to classify Iris flowers, calculated feature importance scores to understand which features contribute most to predictions, and visualized the results using a bar chart with Matplotlib. This experiment demonstrates how feature importance improves the transparency and explainability of Machine Learning models.
+
 ---
 
 ## 📚 Progress
@@ -25,6 +28,7 @@ Added dataset version tracking to the project using DVC. Installed DVC, initiali
 | 1 | MLOps Project Template | ✅ Completed |
 | 2 | Exploratory Data Analysis (EDA) | ✅ Completed |
 | 3 | Data Version Control (DVC) | ✅ Completed |
+| 4 | Interpretable AI: Enhancing Model Transparency | ✅ Completed |
 
 ---
 
@@ -37,6 +41,9 @@ B.Tech – Artificial Intelligence & Data Science
 <img width="1918" height="987" alt="Screenshot 2026-07-20 134154" src="https://github.com/user-attachments/assets/b472eb24-6702-40cb-96e6-670fe054c3ea" />
 
 <img width="1812" height="987" alt="Screenshot 2026-07-29 195200" src="https://github.com/user-attachments/assets/583c7b2f-f0af-4522-a90a-8de70f912069" />
+
+<img width="700" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/c01f8389-2721-4658-94c6-d1e32080aa38" />
+
 
 ---
 
@@ -54,21 +61,6 @@ B.Tech – Artificial Intelligence & Data Science
 - Automated MLOps workflows
 
 ---
-
-# 📚 Learning Progress
-
-| Experiment | Title | Status |
-|------------|-------|--------|
-| 1 | MLOps Project Template | ✅ Completed |
-| 2 | Exploratory Data Analysis (EDA) Automation | ✅ Completed |
-| 3 | Coming Soon | ⏳ |
-| 4 | Coming Soon | ⏳ |
-
----
-
-# 👩‍💻 Author
-
-**Vaishnavi Nitin Bhise**
 
 🎓 B.Tech – Artificial Intelligence & Data Science
 
