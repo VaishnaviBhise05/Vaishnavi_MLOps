@@ -19,6 +19,10 @@ Added dataset version tracking to the project using DVC. Installed DVC, initiali
 ### ✅ Lab 4 – Interpretable AI: Enhancing Model Transparency
 Implemented an Interpretable AI experiment using the Iris dataset and a Random Forest Classifier. Trained the model to classify Iris flowers, calculated feature importance scores to understand which features contribute most to predictions, and visualized the results using a bar chart with Matplotlib. This experiment demonstrates how feature importance improves the transparency and explainability of Machine Learning models.
 
+✅ Lab 5 – Efficient ML Deployment: Accelerating Deployment with Docker and FastAPI
+
+Deployed a trained Machine Learning model as a REST API using FastAPI and Uvicorn. The Iris dataset was used to train a Random Forest Classifier, and the trained model was saved using Joblib. A /predict API endpoint was created to accept flower measurements and return predictions. The application was then containerized using Docker, packaging the FastAPI application, trained model, Python environment, and required dependencies into a portable Docker image. This experiment demonstrates efficient, reproducible, and portable ML model deployment using FastAPI and Docker.
+
 ---
 
 ## 📚 Progress
@@ -29,6 +33,7 @@ Implemented an Interpretable AI experiment using the Iris dataset and a Random F
 | 2 | Exploratory Data Analysis (EDA) | ✅ Completed |
 | 3 | Data Version Control (DVC) | ✅ Completed |
 | 4 | Interpretable AI: Enhancing Model Transparency | ✅ Completed |
+| 5 | Efficient ML Deployment with Docker and FastAPI | ✅ Completed |
 
 ---
 
@@ -43,6 +48,9 @@ B.Tech – Artificial Intelligence & Data Science
 <img width="1812" height="987" alt="Screenshot 2026-07-29 195200" src="https://github.com/user-attachments/assets/583c7b2f-f0af-4522-a90a-8de70f912069" />
 
 <img width="700" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/c01f8389-2721-4658-94c6-d1e32080aa38" />
+
+<img width="1918" height="982" alt="Screenshot 2026-08-13 162139" src="https://github.com/user-attachments/assets/5288d037-7066-4cea-844e-e50fecc0c64c" />
+
 
 
 ---
