@@ -51,8 +51,6 @@ B.Tech – Artificial Intelligence & Data Science
 
 <img width="1918" height="982" alt="Screenshot 2026-08-13 162139" src="https://github.com/user-attachments/assets/5288d037-7066-4cea-844e-e50fecc0c64c" />
 
-
-
 ---
 
 # 🎯 Future Scope
