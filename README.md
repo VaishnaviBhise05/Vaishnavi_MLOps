@@ -68,8 +68,3 @@ B.Tech – Artificial Intelligence & Data Science
 
 ---
 
-🎓 B.Tech – Artificial Intelligence & Data Science
-
-📌 Passionate about AI, Machine Learning, Data Science, and MLOps.
-
-⭐ If you found this repository useful, consider giving it a star!
